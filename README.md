@@ -17,6 +17,10 @@ I’m interested in full-stack development and enjoy working in collaborative, A
 Below are selected projects that demonstrate my learning and technical skills.  
 Each repository includes a README explaining the tools used, why I built it, and what I learned.
 
+- [Zoombini Babies (Team Project)](https://github.com/matthewpark98/Zoombini-Babies-portfolio)
+- [AI Social Media App](https://github.com/matthewpark98/ai-social-media-portfolio)
+
+
 ## 📄 CV
 [Matthew_Park_Resume.pdf](https://github.com/user-attachments/files/25010076/Matthew_Park_Resume.pdf)
 

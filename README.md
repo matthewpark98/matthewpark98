@@ -1,16 +1,27 @@
-## Hi there 👋
+# Matthew Park – Web Developer
 
-<!--
-**matthewpark98/matthewpark98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Matthew 👋  
+I’m a Web Developer trained at Dev Academy Aotearoa with a background in customer-focused and operational roles. I enjoy problem-solving, learning new technologies, and building small, complete web applications.
 
-Here are some ideas to get you started:
+I’m interested in full-stack development and enjoy working in collaborative, Agile environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- JavaScript (ES6+)
+- HTML, CSS
+- React
+- Node.js / Express
+- SQL
+- Git & GitHub
+
+## 📂 Projects
+Below are selected projects that demonstrate my learning and technical skills.  
+Each repository includes a README explaining the tools used, why I built it, and what I learned.
+
+## 📄 CV
+[Matthew_Park_Resume.pdf](https://github.com/user-attachments/files/25010076/Matthew_Park_Resume.pdf)
+
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/matthew-park-558ba33a9/
+
+
